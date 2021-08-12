@@ -16,4 +16,4 @@ def generate_qr_code(url):
     return
 
 if __name__=="__main__":
-    genrate_qr_code("https://docs.python.org/3/")
+    generate_qr_code("https://docs.python.org/3/")
